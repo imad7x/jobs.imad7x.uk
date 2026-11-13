@@ -1,12 +1,14 @@
 # 7xjobs
 
-A job finder for India, live at **[jobs.imad7x.uk](https://jobs.imad7x.uk)**. Jobs come straight from companies'
-own hiring systems (Greenhouse, Lever, Ashby, Workable and more), refreshed every 6 hours.
+A job search site, live at **[7xjobs.com](https://7xjobs.com)**. Jobs in India, the US, UK, Canada, Germany, Australia,
+Singapore and the UAE, plus remote roles, straight from companies' own hiring systems, refreshed every 6 hours.
 
-<p><img src="assets/desktop.png" width="72%" alt="Job list with weekly market trends"> <img src="assets/mobile.png" width="24%" alt="Mobile view"></p>
+<p><img src="assets/desktop.png" width="72%" alt="Search results with the job open beside the list"> <img src="assets/mobile.png" width="24%" alt="Mobile view"></p>
 
-- Filters by role, experience, skills and remote; weekly market trends
-- Installable web app with offline saved jobs
+- Search by role, location, experience and skills
+- Market page: top roles, skills and typical pay
+- Free resume builder (7xResume)
+- Installable web app with saved jobs and alerts
 
 Python (Starlette) crawler and API, Postgres, Next.js + React, Docker Compose, Playwright tests.
 
